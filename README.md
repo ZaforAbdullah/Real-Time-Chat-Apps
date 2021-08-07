@@ -60,3 +60,6 @@ and visit [http://localhost:8000/](http://localhost:8000/) to see the applicatio
 * [Pusher](https://pusher.com/) - APIs to enable devs building realtime features
 * [Laravel](https://laravel.com) - The PHP Framework For Web Artisans
 * [Vue.js](https://vuejs.org) - The Progressive JavaScript Framework
+
+## Demo
+http://laravel-chat-apps.herokuapp.com/register
